@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfoliowebsite/static/css/main.72d295c3.css",
+    "main.js": "/portfoliowebsite/static/js/main.82c79b97.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfoliowebsite/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfoliowebsite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/PortfolioResume.pdf": "/portfoliowebsite/static/media/PortfolioResume.aad4fda0e0035709c263.pdf",
+    "static/media/pizzashop.jpg": "/portfoliowebsite/static/media/pizzashop.020b5ec85d4cebede260.jpg",
+    "static/media/home-main.svg": "/portfoliowebsite/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfoliowebsite/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/todolist.jpg": "/portfoliowebsite/static/media/todolist.05ffaedf7bb09be04eac.jpg",
+    "static/media/home-bg.jpg": "/portfoliowebsite/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/moviesearchapp.png": "/portfoliowebsite/static/media/moviesearchapp.efae9474e4ce8c44d4bf.png",
+    "static/media/englishdict.png": "/portfoliowebsite/static/media/englishdict.16d11292831ff3c232f3.png",
+    "static/media/avatar.svg": "/portfoliowebsite/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfoliowebsite/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfoliowebsite/index.html",
+    "main.72d295c3.css.map": "/portfoliowebsite/static/css/main.72d295c3.css.map",
+    "main.82c79b97.js.map": "/portfoliowebsite/static/js/main.82c79b97.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfoliowebsite/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfoliowebsite/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d295c3.css",
+    "static/js/main.82c79b97.js"
+  ]
+}
